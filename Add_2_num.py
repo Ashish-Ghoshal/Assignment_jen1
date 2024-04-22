@@ -1,5 +1,5 @@
 #Program to add 2 numbers
 a=10
-b=20
+b=40
 res=a+b
-print(res) #final result
+print("Changed for assignment :",res) #final result
